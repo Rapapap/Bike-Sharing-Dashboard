@@ -11,4 +11,4 @@ pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
 streamlit run dashboard.py
 ```
 # Dashboard Link
-Link: https://bike-sharing-dashboard-bbe8brwr9vm4emq5fqjwwq.streamlit.app/
+Link: https://bike-sharing-dashboard-bf3gkeasfeezqnaqgwzsud.streamlit.app/
