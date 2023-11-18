@@ -12,3 +12,5 @@ streamlit run dashboard.py
 ```
 # Dashboard Link
 Link: https://bike-sharing-dashboard-bf3gkeasfeezqnaqgwzsud.streamlit.app/
+# Dashboard Thumbnail
+![image](https://github.com/Rapapap/Bike-Sharing-Dashboard/assets/121810084/888cfd80-c1c2-40c0-a2ee-d3b92e1e19c6)
